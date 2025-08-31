@@ -1,0 +1,77 @@
+body {
+  margin: 0;
+}
+.hole {
+  display: flex;
+  justify-content: space-between;
+}
+.left h1 {
+  padding-left: 50px;
+}
+.left p {
+  padding-left: 20px;
+}
+.left {
+  padding-bottom: 150px;
+  padding-left: 60px;
+}
+.inpt input {
+  border: none;
+  border-radius: 15px;
+  background-color: #d6d6d6;
+  outline: none;
+  margin-top:  20px;
+  padding: 0 10px;
+  height: 30px;
+  
+  
+}
+.link a {
+  color: #000000;
+  text-decoration: none;
+  position: absolute;
+  top: 230px;
+  left: 94px;
+}
+.link a:hover {
+  background-color: #8351e0;
+}
+.btn button {
+  background-color: #8351e0;
+  border: none;
+  border-radius: 15px;
+  position: absolute;
+  top: 280px;
+  left: 130px;
+  padding: 10px ;
+}
+.btn button:hover {
+  background-color: #b392f0; 
+}
+.right {
+  background-color: #8351e0;
+  padding: 50px 50px;
+  border-radius: 70px 0px 0px 70px;
+  align-items: center;
+}
+.right button {
+  background-color:  #8351e0;
+  border-color: white;
+  border-radius: 15px;
+  padding: 10px;
+  position: absolute;
+  right: 127px;
+  bottom: 100px;
+}
+.right button:hover {
+  background-color: #b392f0;
+}
+
+
+.right p {
+  position: absolute;
+  right: 130;
+  top: 100px;
+}
+
+
